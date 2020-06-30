@@ -8,4 +8,4 @@ There is a 80-20 percent split between alpha-numeric values in the data. Therefo
 The model reports an accuracy of 93%. 
 ## Task 2
 The second model classifies the 47 alpha-numeric values considered. A simple CNN is used for this. The class-wise model report is included in the notebook. </br>
-The model can be used using the prediction notebook. The assumption is that the input is a column-major image vector.
+The model can be used using the prediction notebook. The assumption is that the input is a column-major image vector. The dependencies for this notebook are the characters-digits-mapping mapping file and the model weights.
